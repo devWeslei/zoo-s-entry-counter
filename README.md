@@ -1,6 +1,7 @@
 # Zoo's entry counter
-
-![Preview-Screens](https://github.com/devWeslei/zoo-s-entry-counter/blob/main/assets/demo%201.gif)
+<p align="center">
+  <img alt="Demo" src="https://github.com/devWeslei/zoo-s-entry-counter/blob/main/assets/demo.gif" width=375 height=667>
+</p>
 
 
 ## About this Project
