@@ -6,8 +6,5 @@
 
 
 ## About this Project
+a Flutter project that counts the number of people at the entrance.
 
-
-
-
-## Functionalities
